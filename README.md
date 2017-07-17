@@ -1,11 +1,11 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README describes the roadmap from MicroIsis to WinIsis to an online database.
 
 ### What is this repository for? ###
 
 * Quick summary
-* Version
+* Version 1.01
 
 ### How do I get set up? ###
 
