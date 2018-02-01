@@ -25,4 +25,5 @@ This README describes the roadmap from MicroIsis to WinIsis to an online databas
 ### Who do I talk to? ###
 
 * Repo owner or admin
+     - Contact `imhicihu at gmail dot com`
 * Other community or team contact
