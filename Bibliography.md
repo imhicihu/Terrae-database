@@ -1,0 +1,1 @@
+* Jornadas Nacionales sobre Microisis. 3., Mar del Plata, 1993. Actas. Mar del Plata: Universidad Nacional de Mar del Plata, 5 h.p., 135 p.: ilustraciones.; 29 cm. **En nuestra base de datos Terrae, pedir por Depósito Proatlas 006802**
