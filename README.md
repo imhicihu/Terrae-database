@@ -1,4 +1,4 @@
-# README #
+# Rationale #
 
 This README describes the roadmap from MicroIsis to WinIsis to an online database.
 
@@ -10,6 +10,8 @@ This README describes the roadmap from MicroIsis to WinIsis to an online databas
 ### How do I get set up? ###
 
 * Summary of set up
+     - MicroIsis
+     - WinIsis
 * Configuration
 * Dependencies
 * Database configuration
