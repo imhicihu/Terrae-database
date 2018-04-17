@@ -21,7 +21,7 @@
 * Dependencies
      - WinIsis 
 * Deployment instructions
-     - Install a fresh install of [WinIsis](http://www.unesco.org/new/en/communication-and-information/information-society/open-source-and-low-cost-technologies/information-processing-tools/cdsisis-database-software/cdsisis-for-window/) or a `.csv` reader
+     - Install a fresh [WinIsis](http://www.unesco.org/new/en/communication-and-information/information-society/open-source-and-low-cost-technologies/information-processing-tools/cdsisis-database-software/cdsisis-for-window/) or a `.csv` reader on your computer
 
 ### Contribution guidelines ###
 
