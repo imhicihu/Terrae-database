@@ -1,6 +1,6 @@
 # Rationale #
 * Rescue, mining & clean up of an ancient database made on MicroIsis circa mid-1990. 
-* Implies firstly a secure backup, then migrate all the recrods in the safest way as possible. This step implies fix all the errors of the characters's format. Then amend all the typos found
+* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/d158358b094693fcf57122761ccb4913483d8317/To%20Do.md?at=master&fileviewer=file-view-default), then migrate all the recrods in the safest way as possible. This step implies fix all the errors of the characters's format. Then amend all the typos found
 
 ![terrae-in-windows-environment.png](https://bitbucket.org/repo/EBnakg/images/4161797553-terrae-in-windows-environment.png)
 
@@ -21,19 +21,20 @@
 * Dependencies
      - WinIsis 
 * Deployment instructions
-     - Install a fresh installment of WinIsis or a `.csv` reader
+     - Install a fresh install of [WinIsis](http://www.unesco.org/new/en/communication-and-information/information-society/open-source-and-low-cost-technologies/information-processing-tools/cdsisis-database-software/cdsisis-for-window/) or a `.csv` reader
 
 ### Contribution guidelines ###
 
 * Writing tests
-     - in process
+     - _in process_
 * Code review
-     - in process
+     - _in process_
 * Other guideline
-     - in processs
+     - _in processs_
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Contact `imhicihu at gmail dot com`
+     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
+     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/terrae-database/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
