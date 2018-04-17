@@ -2,7 +2,7 @@
 * Rescue, mining & clean up of an ancient database made on MicroIsis circa mid-1990. 
 * Implies firstly a secure backup, then migrate all the recrods in the safest way as possible. This step implies fix all the errors of the characters's format. Then amend all the typos found
 
-![terrae.jpg](https://bitbucket.org/repo/EBnakg/images/3473435035-terrae.jpg)
+![terrae-in-windows-environment.png](https://bitbucket.org/repo/EBnakg/images/4161797553-terrae-in-windows-environment.png)
 
 ### What is this repository for? ###
 
