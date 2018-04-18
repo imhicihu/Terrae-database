@@ -14,15 +14,16 @@
 
 * Summary of set up
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
+          + once installed Windows 7 ISO via VirtualBox, install the [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): minimizing incompatibilities
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment)
      - [Docker](https://www.docker.com/)
-     - Google Spreadsheet
+     - [Google Sheets](http://spreadsheets.google.com/)
      - db3iso
-     - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
+     - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files
 
 * Configuration
-     - in process
+     - _in process_
 * Dependencies
      - WinIsis 
 * Deployment instructions
