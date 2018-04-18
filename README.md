@@ -1,7 +1,7 @@
 # Rationale #
 * Rescue, mining & clean up of an ancient database made on MicroIsis circa mid-1990. 
 * Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/d158358b094693fcf57122761ccb4913483d8317/To%20Do.md?at=master&fileviewer=file-view-default), then migrate all the recrods in the safest way as possible. This step implies fix all the errors of the characters's format. Then amend all the typos found
-
+![informacion_multiusuario.jpg](https://bitbucket.org/repo/EBnakg/images/3307081788-informacion_multiusuario.jpg)
 ![terrae-in-windows-environment.png](https://bitbucket.org/repo/EBnakg/images/4161797553-terrae-in-windows-environment.png)
 
 ### What is this repository for? ###
