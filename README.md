@@ -30,6 +30,10 @@
 * Deployment instructions
      - Install a fresh [WinIsis](http://www.unesco.org/new/en/communication-and-information/information-society/open-source-and-low-cost-technologies/information-processing-tools/cdsisis-database-software/cdsisis-for-window/) or a `.csv` reader on your computer
 
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/terrae-database/issues)
+
 ### Contribution guidelines ###
 
 * Writing tests
