@@ -50,3 +50,7 @@
      - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
      - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/terrae-database/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+     
+### Legal ###
+
+* All trademarks are the property of their respective owners. 
