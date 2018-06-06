@@ -35,6 +35,10 @@
 
 * Check them on [here](https://bitbucket.org/imhicihu/terrae-database/issues)
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/terrae-database/commits/) section for the current status
+
 ### Contribution guidelines ###
 
 * Writing tests
