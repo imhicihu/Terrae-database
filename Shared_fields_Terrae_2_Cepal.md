@@ -2,6 +2,7 @@ TERRAE | CEPAL
 ------------- | -------------
      - 10 (ISBN) -------->| 47 (ISBN)
      - 24 (Titulo) --------> | 18 (TITULO)
+     - 28 (Autor pers.) --------> | 16 (AUTOR PERSONAL)
      - 45 (Fecha Publicación) --------> | 43 (Fecha publicación)
      - 47 (Editor) --------> | 39 (Ciudad de la editorial)
      - 48 (País) --------> | 40 (PAIS)
