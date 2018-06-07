@@ -9,3 +9,6 @@ Original | Modified
 47 0 mhl,(v47/) -------->|
 64 0 mhl,(v64/) -------->|
 76 0 mhl,v76 -------->|
+
+
+original path on Sony pc: `C:\Isis\CEPAL` for `Bach.fst`
