@@ -21,3 +21,5 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 40|País de la editorial| Patròn |- |AA
 43|Fecha de publicación| Alfanumérica |- |
 47|ISBN| Alfanumérica |R |
+64|Idioma del texto| Alfabético |R |
+76|Descriptores: cont. temático| Alfanumérica |- |
