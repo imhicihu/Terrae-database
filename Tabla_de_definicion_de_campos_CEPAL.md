@@ -6,11 +6,13 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 5|Nivel bibliográfico| Alfabético |- | 
 6|Nivel de registro| Alfabético |- | 
 7|Nombre Centro Participante| Alfanumérica |- | 
-8|Soporte no convencional %| Alfanumérica |R | 
-9|Indicador de proces.| Alfanumérica |- | 
-10|ISBN  %| Alfanumérica |R | 
-11|ISBN (mvv) %| Alfanumérica |R | 
-12|Código Doc. %%| Alfanumérica |R | 
-15|ISSN (s) %| Patrón |R | 9999-999X
-18|Rel.vert.Doc.incl. %^dtim| Alfanumérica |R | dtim
-19|Rel.vert.Doc.may. %^dtim| Alfanumérica |R | dtim
+8|Número control en Centro Part.| Alfanumérica |- | 
+10|Autor personal - nivel a| Alfanumérica |R | 
+11|Autor institucional - nivel a |Alfanumérica |R | 
+12|Título - nivel a| Alfanumérica |R | 
+14|Páginas - nivel a| Alfanumérica |- |
+1|Nombre del archivo| Alfanumérica |R |
+17|Autor institucional - nivel m| Alfanumérica |R |
+18|Título - nivel m| Alfanumérica |R |
+20|Páginas - nivel m| Alfanumérica |- |
+21|Número de volumen - nivel m| Alfanumérica |- |
