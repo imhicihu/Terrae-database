@@ -3,5 +3,5 @@
 * ~~backup `subsuelo.zip` to `Dropbox` & `Google Drive` via `IFFTTT`~~
 * Choose a licence and put it on README (chooselicence.org)
 * ~~file verification backup & compression:~~
-	![subsuelo-compress-ok.png](https://bitbucket.org/repo/AjyxMg/images/3929066438-subsuelo-compress-ok.png)
+	![3929066438-subsuelo-compress-ok.png](https://bitbucket.org/repo/EBnakg/images/1962475127-3929066438-subsuelo-compress-ok.png)
 * capture Tabla de Campos (CDS): `order`, `number`, `type`
