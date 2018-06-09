@@ -1,7 +1,7 @@
 # Rationale #
 * Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990.
 ![microisis_welcome_page.png](https://bitbucket.org/repo/AjyxMg/images/1915817601-microisis_welcome_page.png)
-* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/d158358b094693fcf57122761ccb4913483d8317/To%20Do.md?at=master&fileviewer=file-view-default), then migrate all the records in the safest way as possible. This step implies fix all the errors of the characters's format. Then amend all the typos found
+* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/dd7f229968c0f625060237281acc7a5c4c7d6dd7/To%20Do.md?at=master&fileviewer=file-view-default), then migrate all the records in the safest way as possible. This step implies fix all the errors of the characters's format. Then amend all the typos found
 ![informacion_multiusuario.png](https://bitbucket.org/repo/EBnakg/images/141072733-informacion_multiusuario.png)
 ![terrae-in-windows-environment.png](https://bitbucket.org/repo/EBnakg/images/4161797553-terrae-in-windows-environment.png)
 
