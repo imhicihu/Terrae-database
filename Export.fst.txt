@@ -1,3 +1,4 @@
+Original file
 10 0 mhl,(v10/)
 24 0 mhl,(v24/)
 28 0 mhl,(v28/)
@@ -21,6 +22,7 @@
 
 should change the line #17: 46 0 mhl,(v47/)
 
+Modified file
 10 0 mhl,(v10/)
 24 0 mhl,(v24/)
 28 0 mhl,(v28/)
