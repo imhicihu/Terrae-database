@@ -1,7 +1,7 @@
 * create a kind of `ROADMAP` to visualize the steps to do / done up to now
 * ~~uploads photos taken from the brugge notebook~~
 * ~~backup `subsuelo.zip` to `Dropbox` & `Google Drive` via `IFFTTT`~~
-* Choose a licence and put it on README (chooselicence.org)
+* ~~Choose a licence and put it on README (https://chooselicence.org)~~
 * ~~file verification backup & compression:~~
 	![3929066438-subsuelo-compress-ok.png](https://bitbucket.org/repo/EBnakg/images/1962475127-3929066438-subsuelo-compress-ok.png)
-* capture Tabla de Campos (CDS): `order`, `number`, `type`
+* ~~capture Tabla de Campos (CDS): `order`, `number`, `type`~~
