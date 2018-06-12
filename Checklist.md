@@ -8,3 +8,4 @@
 * Generate a keyword for _every_ file sent. A kind of tracking method of files (for internal use).
 
 * original path: `c:\subsuelo\winisis\data\terrae\terrae.mst` (recreate the same path in VirtualBox)
+* Install the latest stable version of VirtualBox
