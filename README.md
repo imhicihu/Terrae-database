@@ -9,23 +9,22 @@
 
 * Quick summary
      - Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990.
-* Version 1.01
+* Version 1.1
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of *our* set up:
      - Check our [WinIsis operating system test](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
           + once installed Windows 7 ISO via VirtualBox, install the [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): minimizing incompatibilities
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
-     - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment)
-     - [Docker](https://www.docker.com/)
-     - [Google Sheets](http://spreadsheets.google.com/)
-     - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)
-     - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files
+     - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment for the sake of testing and creation of branches of experimentations. This allow us create custom actions according our needs)
+     - [Google Sheets](http://spreadsheets.google.com/): once exported the data in`.csv` file format (courtesy to [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)) open it in Google Sheets. Look for "corrupted or ignored" letters (ie: diacritic accent or cyrillic words) 
+     - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip) 
+     - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of _swiss-army_ knife of encoding-unencoding text files
 
 * Configuration
-     - _in process_
+     - Vide [Exporting.md](https://bitbucket.org/imhicihu/terrae-database/src/eeb90385c59079bae5e286bad61c8e9fb57d2576/Exporting.md?at=master&fileviewer=file-view-default)
 * Dependencies
      - WinIsis 
 * Deployment instructions
