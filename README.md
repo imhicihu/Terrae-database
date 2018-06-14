@@ -20,13 +20,16 @@
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment for the sake of testing and creation of branches of experimentations. This allow us create custom actions according our needs)
      - [Google Sheets](http://spreadsheets.google.com/): once exported the data in`.csv` file format (courtesy to [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)) open it in Google Sheets. Look for "corrupted or ignored" letters (ie: diacritic accent or cyrillic words) 
+     - [csv reader](https://limonte.github.io/csv-viewer-online/)
      - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip) 
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of _swiss-army_ knife of encoding-unencoding text files
 
 * Configuration
      - Vide [Exporting.md](https://bitbucket.org/imhicihu/terrae-database/src/eeb90385c59079bae5e286bad61c8e9fb57d2576/Exporting.md?at=master&fileviewer=file-view-default)
 * Dependencies
-     - WinIsis 
+     - Windows operating system. Check our [tests](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
+     - WinIsis
+     - csv file reader
 * Deployment instructions
      - Install a fresh [WinIsis](http://www.unesco.org/new/en/communication-and-information/information-society/open-source-and-low-cost-technologies/information-processing-tools/cdsisis-database-software/cdsisis-for-window/) or a `.csv` reader on your computer
 
@@ -37,15 +40,6 @@
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/terrae-database/commits/) section for the current status
-
-### Contribution guidelines ###
-
-* Writing tests
-     - _in process_
-* Code review
-     - _in process_
-* Other guideline
-     - _in processs_
 
 ### Who do I talk to? ###
 
