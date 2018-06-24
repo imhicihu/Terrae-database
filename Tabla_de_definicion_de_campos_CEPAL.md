@@ -1,6 +1,6 @@
 Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 ---|------|----|---|------
-2|Número de acceso|Patròn|-|99999.99
+2|Número de acceso|Patrón|-|99999.99
 3|Ubicación física | Alfanumérica |- |
 4|Tipo de literatura| Alfabético |- | 
 5|Nivel bibliográfico| Alfabético |- | 
@@ -18,7 +18,7 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 20|Páginas - nivel m| Alfanumérica |- |
 21|Número de volumen - nivel m| Alfanumérica |- |
 39|Ciudad de la editorial| Alfanumérica |- |
-40|País de la editorial| Patròn |- |AA
+40|País de la editorial| Patrón |- |AA
 43|Fecha de publicación| Alfanumérica |- |
 47|ISBN| Alfanumérica |R |
 64|Idioma del texto| Alfabético |R |
