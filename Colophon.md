@@ -10,5 +10,6 @@
     - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
+    - [CSVLint](http://csvlint.io/): CSV linter for databases
     - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
     
