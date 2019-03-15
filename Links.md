@@ -8,7 +8,7 @@
      - [Software y manuales para Bibliotecas](http://recursosbiblio.url.edu.gt/paginasPortal/Software.html)
      
 * ISO-Code
-     - * [International Accent Marks and Diacriticals](http://www.starr.net/is/type/htmlcodes.html): best practice as possible between Google indexing, page rendering, _etc_.
+     - [International Accent Marks and Diacriticals](http://www.starr.net/is/type/htmlcodes.html): best practice as possible between Google indexing, page rendering, _etc_.
 
 * Licence
      - [Template of Open source license](https://opensource.org/licenses/EPL-2.0)
