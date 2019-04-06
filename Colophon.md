@@ -13,4 +13,5 @@
     - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
     - [CSVLint](http://csvlint.io/): CSV linter for databases
     - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
+    - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
     
