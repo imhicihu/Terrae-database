@@ -21,6 +21,7 @@
           + once installed Windows 7 ISO via VirtualBox, install the [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): minimizing incompatibilities
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a customize virtual environment for the sake of testing and creation of branches of experimentations. This allow us create custom actions according our needs)
+     ![windowsxpvirtualized.jpg](https://bitbucket.org/repo/EBnakg/images/3264682538-windowsxpvirtualized.jpg)
      - [Google Sheets](http://spreadsheets.google.com/): once exported the data in`.csv` file format (courtesy to [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)) open it in Google Sheets. Look for `corrupted or ignored` letters (ie: diacritic accent or cyrillic words) 
      - [csv reader](https://limonte.github.io/csv-viewer-online/)
      - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip) 
