@@ -28,7 +28,7 @@
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of _swiss-army_ knife of encoding-unencoding text files
 
 * Configuration
-     - Vide [Exporting.md](https://bitbucket.org/imhicihu/terrae-database/src/1e71356f13b9b5ec219dc621b472985d5edd7423/Exporting.md?at=master&fileviewer=file-view-default)
+     - Vide [Exporting.md](https://bitbucket.org/imhicihu/terrae-database/src/8c67f83f89d3c1f63c78bc070c67da373828fe91/Exporting.md?at=master&fileviewer=file-view-default)
 * Dependencies
      - Windows operating system. Check our [tests](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
      - WinIsis
