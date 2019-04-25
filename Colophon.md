@@ -6,6 +6,7 @@
         - 21" Dell monitor (suitable for table editing and cleaning) (a _must_ condition)
         
 * Software
+    - [WinIsis v.1.5.3 Build 3](https://www.dropbox.com/s/44vpnjcs6n569h9/winisis-Windows-1.5.3.zip?dl=0): shared link via [Experiencia Aguapey](https://aguapeyexperience.wordpress.com/recursos-descargas/)
     - [Duplicati](https://www.duplicati.com/) (open-source backup software)
     - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
