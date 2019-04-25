@@ -19,7 +19,7 @@
      - Check our [WinIsis operating system test](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
           + once installed Windows 7 ISO via VirtualBox, install the [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): minimizing incompatibilities
-	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
+     - [WinIsis v.1.5.3 Build 3](https://www.dropbox.com/s/44vpnjcs6n569h9/winisis-Windows-1.5.3.zip?dl=0): shared link via [Experiencia Aguapey](https://aguapeyexperience.wordpress.com/recursos-descargas/)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a customize virtual environment for the sake of testing and creation of branches of experimentations. This allow us create custom actions according our needs)
      ![windowsxpvirtualized.jpg](https://bitbucket.org/repo/EBnakg/images/3264682538-windowsxpvirtualized.jpg)
      - [Google Sheets](http://spreadsheets.google.com/): once exported the data in`.csv` file format (courtesy to [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)) open it in Google Sheets. Look for `corrupted or ignored` letters (ie: diacritic accent or cyrillic words) 
