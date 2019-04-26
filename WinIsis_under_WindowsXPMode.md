@@ -21,7 +21,10 @@
 	- *.n02
 	- *.pft
 	- *.xrf
+	
 ![2350846476-WindowsXPunderWindows7.png](https://bitbucket.org/repo/EBnakg/images/659379318-2350846476-WindowsXPunderWindows7.png)
+> _WinIsis running inside a Windows XP Mode inside a session of Windows 7_
+
 * once copied, copy this files to your brand new WinIsis installation, pointed out and go for `c:\WinIsis\Data`. Paste those files inside here.
 * Run your WinIsis. Choose your new database (ie. in our case: `Nuevo`). 
 * Presto
