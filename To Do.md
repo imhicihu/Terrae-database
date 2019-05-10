@@ -1,3 +1,4 @@
+* automatic installer of WinIsis _vía_ [Chocolatey](https://chocolatey.org/)
 * create a kind of `ROADMAP` to visualize the steps to do / done up to now
 * ~~uploads photos taken from the brugge notebook~~
 * ~~backup `subsuelo.zip` to `Dropbox` & `Google Drive` via `IFFTTT`~~
