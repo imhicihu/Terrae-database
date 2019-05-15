@@ -1,7 +1,7 @@
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
 # Rationale #
-* Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990.
+* Rescue, mining & clean up of an [ancient database](http://rescatandoterrae.tumblr.com/) made on MicroIsis _circa_ mid-1990.
 ![microisis_welcome_page.png](https://bitbucket.org/repo/AjyxMg/images/1915817601-microisis_welcome_page.png)
 * Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/dd7f229968c0f625060237281acc7a5c4c7d6dd7/To%20Do.md?at=master&fileviewer=file-view-default), then verify all the exported records, focusing on malformatted or incompatible characters (particularly diacritic accents). Particularly, this step was scrutinized under both offline and online tools. All the records migrated were saved in the safest way as possible. As final goal: amend all the typos found along the process.  
 ![informacion_multiusuario.png](https://bitbucket.org/repo/EBnakg/images/141072733-informacion_multiusuario.png)
