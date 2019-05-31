@@ -1,9 +1,12 @@
 ![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 ## Exportación (uso interno)
+* Verifique la estabilidad de su sistema operativo, ej.: no posea virus informáticos
+* Deshabilite compartir archivos y carpetas durante el proceso de exportación
 * Si ya tiene instalada una impresora virtual PDF, siga con el siguiente paso. Si no tiene instalada una impresora virtual PDF, visite este [enlace](https://pdf.wondershare.com/top-pdf-software/free-pdf-printer.html) e instale alguna de las opciones ofrecidas de acuerdo a su sistema operativo.
 * Ejecutar WinIsis
-* Seleccione y cargue la base de datos que desea exportar
+* Verifique el estado y estabilidad general de su base de datos. Valide y depure sus registros. Corrija cualquier caracter incompatible con su versión de WinIsis. Verifique los registros borrados
+* Seleccione y cargue la base de datos que desea exportar. Compruebe la suma total de registros (en caso de que desee exportar toda su base de datos), o en su defecto, qué registros desea exportar
 
 ![](https://bitbucket.org/repo/EBnakg/images/2416953906-01.jpg)
 
