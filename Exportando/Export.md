@@ -1,7 +1,7 @@
 ![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 
-### Caveat: This document describes is for _internal use_ and meets _our_ criteria
+### Caveat: This document describes procedures and steps to be done and is for _internal use_ and meets _our_ criteria
 
 ## Exporting 
 * Check the "health" of your operating system. Verify that your computer is out of viruses
