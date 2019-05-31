@@ -23,7 +23,7 @@
 
 ![](https://bitbucket.org/repo/EBnakg/images/164718151-03.jpg)
 
-* Then go to tab `Márgenes`: enter `0` (cero) on `Superior`, `Inferior`, `Interior` and `Exterior` options. On `Tamaño del papel`: choose `A4` or `Legal`.  All the options in section `Especial`, state on `0` (zero). 
+* Then go to tab `Márgenes`: enter `0` (zero) on `Superior`, `Inferior`, `Interior` and `Exterior` options. On `Tamaño del papel`: choose `A4` or `Legal`.  All the options in section `Especial`, state on `0` (zero). 
 
 ![](https://bitbucket.org/repo/EBnakg/images/510020317-04.jpg)
 
