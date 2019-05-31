@@ -1,5 +1,6 @@
 ![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+### Advertencia: Este documento describe los procedimientos y pasos a seguir. Es para uso interno y refleja nuestros criterios operativos
 ## Exportación (uso interno)
 * Verifique la estabilidad de su sistema operativo, ej.: no posea virus informáticos
 * Deshabilite compartir archivos y carpetas durante el proceso de exportación
