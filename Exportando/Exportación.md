@@ -26,7 +26,7 @@
 
 * Clic en `Imprimir`. Pedirá que le demos un nombre al archivo pdf que se generará. Clic en `Aceptar`.
 * El archivo pdf generado puede ser editado en paquetes de ofimática tales como [LibreOffice](https://ask.libreoffice.org/es/question/57975/se-pueden-abrir-archivos-pdf-con-libreoffice/) y [Microsoft Word](https://support.office.com/es-es/article/editar-un-archivo-pdf-b2d1d729-6b79-499a-bcdb-233379c2f63a).
-* Puede consultar este enlace sobre cómo buscar y reemplazar formatos en Word [aquí](https://support.office.com/es-es/article/buscar-y-reemplazar-texto-c6728c16-469e-43cd-afe4-7708c6c779b7) (Windows), o [acá](https://support.office.com/es-es/article/buscar-y-reemplazar-texto-o-formato-en-word-para-mac-ac12f262-e3cd-439a-88a0-f5a59875dcea) (macOSX).
+* Puede consultar estos enlaces sobre cómo buscar y reemplazar formatos de texto y formatos especiales (como formatos de carácter y párrafo), estilos y resaltado, y cambiarles el formato sin modificar el texto en Word [aquí](https://support.office.com/es-es/article/buscar-y-reemplazar-texto-c6728c16-469e-43cd-afe4-7708c6c779b7) (Windows), o [acá](https://support.office.com/es-es/article/buscar-y-reemplazar-texto-o-formato-en-word-para-mac-ac12f262-e3cd-439a-88a0-f5a59875dcea) (macOSX).
 
 ### Changelog ###
 
