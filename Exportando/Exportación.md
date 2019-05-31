@@ -1,4 +1,4 @@
-![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 ## Exportación (uso interno)
 * Verifique la estabilidad de su sistema operativo, ej.: no posea virus informáticos
