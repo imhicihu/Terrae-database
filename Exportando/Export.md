@@ -19,7 +19,7 @@
 
 ![](https://bitbucket.org/repo/EBnakg/images/1303383434-02.jpg)
 
-* Go to `Base de Datos` > `Imprimir`. Choose if you wish print `La búsqueda actual` or `Rango de MFN`: enter here the numbers of records you want to export; ej.: 1-999999. On `Salida a` choose your PDF virtual printer. In our case, we choose `Adobe PDF`. Then, in `Formato de impresión`, choose the option `Formato predefinido`.
+* Go to `Base de Datos` > `Imprimir`. Choose if you wish print `La búsqueda actual` or `Rango de MFN`: enter here the numbers of records you want to export; ej.: 1-999999. On `Salida a` choose your PDF virtual printer. In our case, we choose `Jaws PDF Creator`. Then, in `Formato de impresión`, choose the option `Formato predefinido`.
 
 ![](https://bitbucket.org/repo/EBnakg/images/164718151-03.jpg)
 
