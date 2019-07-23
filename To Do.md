@@ -1,5 +1,6 @@
 * automatic installer of WinIsis _vía_ [Chocolatey](https://chocolatey.org/)
 * create a kind of `ROADMAP` to visualize the steps to do / done up to now
+* ~~Migrate Del.icio.us gathered links to Evernote~~
 * ~~uploads photos taken from the brugge notebook~~
 * ~~backup `subsuelo.zip` to `Dropbox` & `Google Drive` via `IFFTTT`~~
 * ~~Choose a licence and put it on README (https://chooselicence.org)~~
