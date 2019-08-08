@@ -13,7 +13,7 @@
         * [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - Database
         * [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
-        * [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
+        * [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and ~~look for~~ detect duplicate records
         * [CSVLint](http://csvlint.io/): CSV linter for databases
         * [Typora](https://typora.io/): table editing, converting, formatting, exporting to markdown format
         * [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
