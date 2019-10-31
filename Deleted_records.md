@@ -10,3 +10,4 @@
 | 7083             | Obras del Doctor Sutil Juan Duns Escoto | Weg und Wege der Wahrheit zur Bedeutung der Wahrheitsfrage bei Nikolaus von Kues        | si                  |
 | 7202             | Aufsätze zur portugiesischen kulturgeschichte | Aufsätze zur portugiesischen kulturgeschichte        | si                  |
 | 7203             | Aufsätze zur portugiesischen kulturgeschichte | Geschichte der spanischen literatur. Erster Band        | si                  |
+| 7535             | Vom Sinn der Mensch werdung | Bible moralisée        | si                  |
