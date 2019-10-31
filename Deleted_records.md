@@ -34,5 +34,8 @@
 | 9977        | Litterae Cusanae, tomo 4, número 1 | Litterae Cusanae, tomo 4, número 2   | si                  |
 | 10459-10460        | Echter bibel | Echter bibel   | si                  |
 | 10484-10487        | Altjudisches schrifttum ausserhalb der Bibel | Die Geschichte der synoptischen Tradition   | si                  |
+| 10485        | Die Geschichte der synoptischen Tradition | Das evengelium des Johannes   | si                  |
+| 10505        | Libri Pretiosi, Christliche und jüdische Bibliophilie Volumen 13 | Libri Pretiosi,  Volumen 2   | si                  |
+
 
 
