@@ -28,18 +28,11 @@
 | 9585        | Biblia Sacra iuxta vulgatam versionem I | Biblia Vulgata      | si                  |
 | 9610        | Bibliothek der Kirchenväter. Vol. ? | Bibliothek der Kirchenväter. Vol. 18      | si                  |
 | 9664        | Codex Egberti. Teilfaksimile-Ausgabe des Ms. 24 der Stadtbibliothek Trier | Codex Iuris Canonici Pii X Pontificis maximi     | si                  |
-| 9664        | Communio vol. Nov.-Dez  | Compostelle. Cahiers d'Études de Recherche et d'histoire    | si                  |
-
-
-
-
-
-
-
-
-
-
-
-
+| 9686        | Communio vol. Nov.-Dez  | Compostelle. Cahiers d'Études de Recherche et d'histoire    | si                  |
+| 9733        | Dictionnaire de Théologie Catolique I  | Dictionnaire de Théologie Catholique Vol 11,2    | si                  |
+| 9971        | Litterae Cusanae, tomo 1, número 1 | Litterae Cusanae, tomo 1, número 2   | si                  |
+| 9977        | Litterae Cusanae, tomo 4, número 1 | Litterae Cusanae, tomo 4, número 2   | si                  |
+| 10459-10460        | Echter bibel | Echter bibel   | si                  |
+| 10484-10487        | Altjudisches schrifttum ausserhalb der Bibel | Die Geschichte der synoptischen Tradition   | si                  |
 
 
