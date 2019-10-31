@@ -11,3 +11,4 @@
 | 7202             | Aufsätze zur portugiesischen kulturgeschichte | Aufsätze zur portugiesischen kulturgeschichte        | si                  |
 | 7203             | Aufsätze zur portugiesischen kulturgeschichte | Geschichte der spanischen literatur. Erster Band        | si                  |
 | 7535             | Vom Sinn der Mensch werdung | Bible moralisée        | si                  |
+| 7541             | Diálogos de amor | Vladimir Solov'ev und Friedrich Nietzsche        | si                  |
