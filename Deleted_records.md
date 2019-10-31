@@ -27,6 +27,10 @@
 | 9470        | Der Gott der Philosophen; Grundlegung | Thomas von Aquin. Sein Leben und seine Theologie      | si                  |
 | 9585        | Biblia Sacra iuxta vulgatam versionem I | Biblia Vulgata      | si                  |
 | 9610        | Bibliothek der Kirchenväter. Vol. ? | Bibliothek der Kirchenväter. Vol. 18      | si                  |
+| 9664        | Codex Egberti. Teilfaksimile-Ausgabe des Ms. 24 der Stadtbibliothek Trier | Codex Iuris Canonici Pii X Pontificis maximi     | si                  |
+| 9664        | Communio vol. Nov.-Dez  | Compostelle. Cahiers d'Études de Recherche et d'histoire    | si                  |
+
+
 
 
 
