@@ -7,3 +7,6 @@
 | 6544             | Psalterium glosatum: salterio anglo-catalán | Erasmo y el erasmismo        | si                  |
 | 6728             | Geschichte der lateinischen Literatur des Mittelalters-Band I | Der Schritt über die Grenzen        | si                  |
 | 7064             | Las edades del hombre | Leben und Meinungen berühmter Philosophen        | si                  |
+| 7083             | Obras del Doctor Sutil Juan Duns Escoto | Weg und Wege der Wahrheit zur Bedeutung der Wahrheitsfrage bei Nikolaus von Kues        | si                  |
+| 7202             | Aufsätze zur portugiesischen kulturgeschichte | Aufsätze zur portugiesischen kulturgeschichte        | si                  |
+| 7203             | Aufsätze zur portugiesischen kulturgeschichte | Geschichte der spanischen literatur. Erster Band        | si                  |
