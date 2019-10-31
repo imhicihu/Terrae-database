@@ -37,6 +37,7 @@
 | 10485        | Die Geschichte der synoptischen Tradition | Das evengelium des Johannes   | si                  |
 | 10505        | Libri Pretiosi, Christliche und jüdische Bibliophilie Volumen 13 | Libri Pretiosi,  Volumen 2   | si                  |
 | 23488        | Historia de las Cruzadas. | Cruzadas y órdenes militares en la Edad Media.   | si                  |
+| 23902        | Vigilius Thapsensis (PS.), Contra Varimadum; Augustinus (PS.) | Facundus Hermianensis, Opera omnia.   | si                  |
 
 
 
