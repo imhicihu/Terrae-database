@@ -17,7 +17,17 @@
 | 8587             | Die biblischen Autoren spaniens bis zum Konzil von Trient | Die Glossen des Wolbodon-Psalters        | si                  |
 | 8604             | La percepción de lo bello según la Exposición del Cantar de los Cantares de Fray Luis de León | Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft        | si                  |
 | 8613             | Nicolaus Cusanus: ein bewundernswerter historischer Brennpunkt" | Nikolaus von Kues        | si                  |
-| 8629-8630             | Trierer Theologische Zeitschrift, Heft 2, Sonderdruck | Trierer Theologische Zeitschrift, Heft 3, Sonderdruck        | si                  |
+| 8629-8630        | Trierer Theologische Zeitschrift, Heft 2, Sonderdruck | Trierer Theologische Zeitschrift, Heft 3, Sonderdruck        | si                  |
+| 8712        | The English Writings | El V centenario de la introducción de la imprenta en España        | si                  |
+| 8760        | Biblia de San Luis Catedral Primada de Toledo | Innovación y continuidad en la España visigótica       | si                  |
+| 8972        | Katholische Dogmatik Zweiter Band | Das evangelium nach Matthäus vol. 1       | si                  |
+| 9256        | Systematische Theologie I | Systematische Theologie III      | si                  |
+| 9284        | Dictionnaire de Theologie catholique VII.2 | Dictionnaire de Theologie catholique VIII.1      | si                  |
+
+
+
+
+
 
 
 
