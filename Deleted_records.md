@@ -36,6 +36,7 @@
 | 10484-10487        | Altjudisches schrifttum ausserhalb der Bibel | Die Geschichte der synoptischen Tradition   | si                  |
 | 10485        | Die Geschichte der synoptischen Tradition | Das evengelium des Johannes   | si                  |
 | 10505        | Libri Pretiosi, Christliche und jüdische Bibliophilie Volumen 13 | Libri Pretiosi,  Volumen 2   | si                  |
+| 23488        | Historia de las Cruzadas. | Cruzadas y órdenes militares en la Edad Media.   | si                  |
 
 
 
