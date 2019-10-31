@@ -15,3 +15,10 @@
 | 7802             | The Sermon | Schriften        | si                  |
 | 7846             | Latin Manuscripts books before 1600 | Die Heiligen schrift in der theologischen erkenntnislehre        | si                  |
 | 8587             | Die biblischen Autoren spaniens bis zum Konzil von Trient | Die Glossen des Wolbodon-Psalters        | si                  |
+| 8604             | La percepción de lo bello según la Exposición del Cantar de los Cantares de Fray Luis de León | Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft        | si                  |
+| 8613             | Nicolaus Cusanus: ein bewundernswerter historischer Brennpunkt" | Nikolaus von Kues        | si                  |
+| 8629-8630             | Trierer Theologische Zeitschrift, Heft 2, Sonderdruck | Trierer Theologische Zeitschrift, Heft 3, Sonderdruck        | si                  |
+
+
+
+
