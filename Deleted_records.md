@@ -5,3 +5,5 @@
 | 5388             | La ley, el rey, la iglesia: un recorrido sobre las temáticas y debates en el campo de los estudios visigodos | El espejo político moral del Rex Gratia de Alfonso IX        | si                  |
 | 5416             | Reproducción social y creación de desigualdades | Suplemento Antropológico.        | si                  |
 | 6544             | Psalterium glosatum: salterio anglo-catalán | Erasmo y el erasmismo        | si                  |
+| 6728             | Geschichte der lateinischen Literatur des Mittelalters-Band I | Der Schritt über die Grenzen        | si                  |
+| 7064             | Las edades del hombre | Leben und Meinungen berühmter Philosophen        | si                  |
