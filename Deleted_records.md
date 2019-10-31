@@ -12,3 +12,5 @@
 | 7203             | Aufsätze zur portugiesischen kulturgeschichte | Geschichte der spanischen literatur. Erster Band        | si                  |
 | 7535             | Vom Sinn der Mensch werdung | Bible moralisée        | si                  |
 | 7541             | Diálogos de amor | Vladimir Solov'ev und Friedrich Nietzsche        | si                  |
+| 7802             | The Sermon | Schriften        | si                  |
+| 7846             | Latin Manuscripts books before 1600 | Die Heiligen schrift in der theologischen erkenntnislehre        | si                  |
