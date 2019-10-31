@@ -14,3 +14,4 @@
 | 7541             | Diálogos de amor | Vladimir Solov'ev und Friedrich Nietzsche        | si                  |
 | 7802             | The Sermon | Schriften        | si                  |
 | 7846             | Latin Manuscripts books before 1600 | Die Heiligen schrift in der theologischen erkenntnislehre        | si                  |
+| 8587             | Die biblischen Autoren spaniens bis zum Konzil von Trient | Die Glossen des Wolbodon-Psalters        | si                  |
