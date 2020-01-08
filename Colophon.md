@@ -19,4 +19,5 @@
         * [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
     - GIT
         * [SourceTree](https://www.sourcetreeapp.com/): GIT client
-    
+    - Table converter
+        - [Table convert](https://tableconvert.com/): converter to a plethora of formats
