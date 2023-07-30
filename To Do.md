@@ -5,6 +5,7 @@
 * ~~backup `subsuelo.zip` to `Dropbox` & `Google Drive` via `IFFTTT`~~
 * ~~Choose a licence and put it on README (https://chooselicence.org)~~
 * ~~file verification backup & compression:~~
+  <BR></BR>
 	![3929066438-subsuelo-compress-ok.png](https://bitbucket.org/repo/EBnakg/images/1962475127-3929066438-subsuelo-compress-ok.png)
 * ~~capture Tabla de Campos (CDS): `order`, `number`, `type`~~
 * ~~take photos of the books that contain reference to Terrae. Then send it back to Ricardo.~~
