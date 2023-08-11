@@ -1,4 +1,4 @@
-## Checklist
+### Checklist
 
 * Check the health of your operating system. Check that your system is out of viruses
 * Disable file sharing during the process of exporting
