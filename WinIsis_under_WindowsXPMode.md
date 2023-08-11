@@ -1,4 +1,4 @@
-## Checklist 
+### Checklist 
 
 * Verify if there is enough room to install WinIsis (< 10 MBs) and [Windows XP Mode](https://www.microsoft.com/en-us/download/details.aspx?id=8002) (almost 500 MBs)
 <BR></BR>
