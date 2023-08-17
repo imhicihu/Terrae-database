@@ -13,7 +13,6 @@
 
 * Quick summary
      - Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990.
-* Version 1.1
 
 ### How do I get set up? ###
 
@@ -31,7 +30,7 @@
 
 * Configuration
      - Vide [Exporting.md](https://bitbucket.org/imhicihu/terrae-database/src/8c67f83f89d3c1f63c78bc070c67da373828fe91/Exporting.md?at=master&fileviewer=file-view-default)
-     - Vide [Exportaci�n.md](https://bitbucket.org/imhicihu/terrae-database/src/master/Exportando/Exportaci%C3%B3n.md)
+     - Vide [Exportaci&oacute;n.md](https://bitbucket.org/imhicihu/terrae-database/src/master/Exportando/Exportaci%C3%B3n.md)
 * Dependencies
      - Windows operating system. Check our [tests](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
      - WinIsis
