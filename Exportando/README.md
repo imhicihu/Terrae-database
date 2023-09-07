@@ -4,9 +4,9 @@
 
 # Rationale #
 * Rescue, mining & clean up of an [ancient database](http://rescatandoterrae.tumblr.com/) made on MicroIsis _circa_ mid-1990.
-![microisis_welcome_page.png](https://bitbucket.org/repo/AjyxMg/images/1915817601-microisis_welcome_page.png)
-* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/dd7f229968c0f625060237281acc7a5c4c7d6dd7/To%20Do.md?at=master&fileviewer=file-view-default), then verify all the exported records, focusing on malformatted or incompatible characters (particularly diacritic accents). Particularly, this step was scrutinized under both offline and online tools. All the records migrated were saved in the safest way as possible. As final goal: amend all the typos found along the process.  
-![informacion_multiusuario.png](https://bitbucket.org/repo/EBnakg/images/141072733-informacion_multiusuario.png)
+![microisis_welcome_page.png](../images/1915817601-microisis_welcome_page.png)
+* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/dd7f229968c0f625060237281acc7a5c4c7d6dd7/To%20Do.md?at=master&fileviewer=file-view-default), then verify all the exported records, focusing on malformed or incompatible characters (particularly diacritic accents). Particularly, this step was scrutinized under both offline and online tools. All the records migrated were saved in the safest way as possible. As final goal: amend all the typos found along the process.  
+![informacion_multiusuario.png](../images/141072733-informacion_multiusuario.png)
 ![terrae-in-windows-environment.png](https://bitbucket.org/repo/EBnakg/images/4161797553-terrae-in-windows-environment.png)
 
 ### What is this repository for? ###
@@ -55,11 +55,9 @@
 
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/terrae-database/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Copyright ###
-![88x31.png](https://bitbucket.org/repo/4pKrXRd/images/3902704043-88x31.png)
+![88x31.png](../images/3902704043-88x31.png)
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
 
 ### Legal ###
