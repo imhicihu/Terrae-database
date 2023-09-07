@@ -1,13 +1,13 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-wip](images/3278295154-status_archived.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
-# Rationale #
+# Rationale
 * Rescue, mining & clean up of an [ancient database](http://rescatandoterrae.tumblr.com/) made on MicroIsis _circa_ mid-1990.
-![microisis_welcome_page.png](https://bitbucket.org/repo/AjyxMg/images/1915817601-microisis_welcome_page.png)
-* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/dd7f229968c0f625060237281acc7a5c4c7d6dd7/To%20Do.md?at=master&fileviewer=file-view-default), then verify all the exported records, focusing on malformatted or incompatible characters (particularly diacritic accents). Particularly, this step was scrutinized under both offline and online tools. All the records migrated were saved in the safest way as possible. As final goal: amend all the typos found along the process.  
-![informacion_multiusuario.png](https://bitbucket.org/repo/EBnakg/images/141072733-informacion_multiusuario.png)
-![terrae-in-windows-environment.png](https://bitbucket.org/repo/EBnakg/images/4161797553-terrae-in-windows-environment.png)
+![microisis_welcome_page.png](images/1915817601-microisis_welcome_page.png)
+* Implies firstly a [secure backup](https://bitbucket.org/imhicihu/terrae-database/src/dd7f229968c0f625060237281acc7a5c4c7d6dd7/To%20Do.md?at=master&fileviewer=file-view-default), then verify all the exported records, focusing on malformed or incompatible characters (particularly diacritic accents). Particularly, this step was scrutinised under both offline and online tools. All the records migrated were saved in the safest way as possible. As final goal: amend all the typos found along the process.  
+![informacion_multiusuario.png](images/141072733-informacion_multiusuario.png)
+![terrae-in-windows-environment.png](images/4161797553-terrae-in-windows-environment.png)
 
 ### What is this repository for? ###
 
@@ -22,7 +22,7 @@
           + once installed Windows 7 ISO via VirtualBox, install the [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): minimizing incompatibilities
      - [WinIsis v.1.5.3 Build 3](https://www.dropbox.com/s/44vpnjcs6n569h9/winisis-Windows-1.5.3.zip?dl=0): shared link via [Experiencia Aguapey](https://aguapeyexperience.wordpress.com/recursos-descargas/)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a customize virtual environment for the sake of testing and creation of branches of experimentations. This allow us create custom actions according our needs)
-     ![windowsxpvirtualized.jpg](https://bitbucket.org/repo/EBnakg/images/3264682538-windowsxpvirtualized.jpg)
+     ![windowsxpvirtualized.jpg](images/3264682538-windowsxpvirtualized.jpg)
      - [Google Sheets](http://spreadsheets.google.com/): once exported the data in`.csv` file format (courtesy to [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)) open it in Google Sheets. Look for `corrupted or ignored` letters (ie: diacritic accent or cyrillic words) 
      - [csv reader](https://limonte.github.io/csv-viewer-online/)
      - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip) 
@@ -61,16 +61,14 @@
 
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/terrae-database/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Copyright ###
-![88x31.png](https://bitbucket.org/repo/4pKrXRd/images/3902704043-88x31.png)
+![88x31.png](images/3902704043-88x31.png)
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/terrae-database/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
