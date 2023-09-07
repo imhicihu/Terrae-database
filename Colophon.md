@@ -1,3 +1,4 @@
+### System requirements
 * Hardware
     - a computer with a stable operating system. In this project we use this hardware (not mandatory):
         - Macbook 15"
