@@ -1,5 +1,5 @@
-![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
-![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![stability-wip](../images/status-archived-orange.svg)
+![internaluse-green](../images/Internaluse_-stable-green.svg)
 
 > *Caveat: This document describes procedures and steps to be done and is for _internal use_ and meets _our_ criteria*
 
@@ -11,25 +11,25 @@
 * Check the health of the databases inside WinIsis. Validate and debug your records. Found and amend any incompatible character that can generate corrupted data. 
 * In case of deleted records, WinIsis will warn about if we should save it or not. Choose accordingly
 * Choose and open your database. Verify the _total sum_ of records (to export) or recognise what records you desire to export.
-
-![](https://bitbucket.org/repo/EBnakg/images/2416953906-01.jpg)
+<BR></BR>
+![](../images/2416953906-01.jpg)
 
 * (_Optional_) Update the dictionary (`Base de Datos` > `Actualizar Diccionario`)
 * A dialog box will appear `Mantenimiento del Archivo Invertido`. Choose any of the options provided: `Actualizar`, `Inversión total`, `Reiniciación del Archivo Invertido`, `Crear archivos de enlaces`, `Clasificar los archivos`, `Cargar el Archivo Invertido`. Then, choose `Aceptar`
-
-![](https://bitbucket.org/repo/EBnakg/images/1303383434-02.jpg)
+<BR></BR>
+![](../images/1303383434-02.jpg)
 
 * Go to `Base de Datos` > `Imprimir`. Choose if you wish print `La búsqueda actual` or `Rango de MFN`: enter here the numbers of records you want to export; ej.: 1-999999. On `Salida a` choose your PDF virtual printer. In our case, we choose `Jaws PDF Creator`. Then, in `Formato de impresión`, choose the option `Formato predefinido`.
-
-![](https://bitbucket.org/repo/EBnakg/images/164718151-03.jpg)
+<BR></BR>
+![](../images/164718151-03.jpg)
 
 * Then go to tab `Márgenes`: enter `0` (zero) on `Superior`, `Inferior`, `Interior` and `Exterior` options. On `Tamaño del papel`: choose `A4` or `Legal`.  All the options in section `Especial`, state on `0` (zero). 
-
-![](https://bitbucket.org/repo/EBnakg/images/510020317-04.jpg)
+<BR></BR>
+![](../images/510020317-04.jpg)
 
 * Go to `Disposición` tab: on `Número de columnas` enter 1, on `Espacio entre columnas` enter `10`, then choose `Sin decoraciones`, state on `0` in `Máx. registros por pág./column.`; on section `Paginación` leave the default options: `Arriba`, `Izquierda`, `1`; on `Zoom` section enter `100` and point affirmatively in `No usar títulos`.
-
-![](https://bitbucket.org/repo/EBnakg/images/3517695867-05.jpg)
+<BR></BR>
+![](../images/3517695867-05.jpg)
 
 * Click on `Imprimir`. It will ask us to give a name to the pdf file that will be generated. Click on `Aceptar`.
 * That pdf file generated can be edited in [LibreOffice](https://ask.libreoffice.org/es/question/57975/se-pueden-abrir-archivos-pdf-con-libreoffice/) and/or [Microsoft Word](https://support.office.com/es-es/article/editar-un-archivo-pdf-b2d1d729-6b79-499a-bcdb-233379c2f63a).
@@ -43,7 +43,7 @@
 * ~~Screen captures for the steps to do~~
 
 ### Copyright ###
-![88x31.png](https://bitbucket.org/repo/4pKrXRd/images/3902704043-88x31.png)
+![88x31.png](../images/3902704043-88x31.png)
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
 
 ### Legal ###
