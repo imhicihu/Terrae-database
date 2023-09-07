@@ -1,8 +1,9 @@
-![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg) ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg) 
+![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 
 > *Advertencia: Este documento es para uso interno y refleja nuestros criterios operativos*
 
-## Exportación (uso interno)
+### Exportación (uso interno)
 * Verifique la estabilidad de su sistema operativo, ej.: no posea virus informáticos
 * Deshabilite compartir archivos y carpetas durante el proceso de exportación
 * Si ya tiene instalada una impresora virtual PDF, siga con el siguiente paso. Si no tiene instalada una impresora virtual PDF, visite este [enlace](https://pdf.wondershare.com/top-pdf-software/free-pdf-printer.html) e instale alguna de las opciones ofrecidas de acuerdo a su sistema operativo.

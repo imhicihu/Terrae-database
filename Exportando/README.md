@@ -1,6 +1,6 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-wip](../images/3278295154-status_archived.png)
+![internaluse-green](../images/3847436881-internal_use_stable.png)
+![issues-open](../images/2944199103-issues_open.png)
 
 # Rationale #
 * Rescue, mining & clean up of an [ancient database](http://rescatandoterrae.tumblr.com/) made on MicroIsis _circa_ mid-1990.
