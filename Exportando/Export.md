@@ -19,7 +19,7 @@
 <BR></BR>
 ![](../images/1303383434-02.jpg)
 
-* Go to `Base de Datos` > `Imprimir`. Choose if you wish print `La búsqueda actual` or `Rango de MFN`: enter here the numbers of records you want to export; ej.: 1-999999. On `Salida a` choose your PDF virtual printer. In our case, we choose `Jaws PDF Creator`. Then, in `Formato de impresión`, choose the option `Formato predefinido`.
+* Go to `Base de Datos` > `Imprimir`. Choose if you wish print `La búsqueda actual` or `Rango de MFN`: enter here the numbers of records you want to export; ie.: 1-999999. On `Salida a` choose your PDF virtual printer. In our case, we choose `Jaws PDF Creator`. Then, in `Formato de impresión`, choose the option `Formato predefinido`.
 <BR></BR>
 ![](../images/164718151-03.jpg)
 
