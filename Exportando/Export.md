@@ -35,13 +35,6 @@
 * That pdf file generated can be edited in [LibreOffice](https://ask.libreoffice.org/es/question/57975/se-pueden-abrir-archivos-pdf-con-libreoffice/) and/or [Microsoft Word](https://support.office.com/es-es/article/editar-un-archivo-pdf-b2d1d729-6b79-499a-bcdb-233379c2f63a).
 * You can check these links on how to find and replace text formats and special formats (such as character and paragraph formats), styles and highlighting, and change the format without changing the text in Word [here](https://support.office.com/es-es/article/buscar-y-reemplazar-texto-c6728c16-469e-43cd-afe4-7708c6c779b7) (Windows), or [here](https://support.office.com/es-es/article/buscar-y-reemplazar-texto-o-formato-en-word-para-mac-ac12f262-e3cd-439a-88a0-f5a59875dcea) (macOSX).
 
-### Changelog ###
-
-* 2019-04-31: Added badges and legalese sections. Minor semantic issue fixed. Added steps for the `Disposición` tab.
-
-### To-do ###
-* ~~Screen captures for the steps to do~~
-
 ### Copyright ###
 ![88x31.png](../images/3902704043-88x31.png)
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
